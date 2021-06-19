@@ -1,0 +1,19 @@
+.flex-container{
+    width: 1440px;
+    display: flex;
+}
+.input2{
+    display: flex;
+}
+button{
+    background-color: hsl(0, 6%, 24%);
+}
+.left{
+    background-image: url(./images/bg-pattern-desktop.svg);
+    padding: 150px 150px;
+    
+}
+#logo{
+    margin-top: -40px;
+    
+}
