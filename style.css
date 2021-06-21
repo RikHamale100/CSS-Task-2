@@ -1,19 +1,57 @@
+
+h1{
+    font-weight: 300;
+    color: hsl(0, 36%, 70%);
+    font-size: 70px;
+}
+
+p{
+    font-size: 20px;
+    color: hsl(0, 36%, 70%);
+    font-weight: 300;
+}
+
+
+
 .flex-container{
     width: 1440px;
     display: flex;
 }
+
 .input2{
     display: flex;
+    margin-top: 100px;
+    border-radius: 40px;
+    
 }
 button{
-    background-color: hsl(0, 6%, 24%);
+    background-color: hsl(0, 93%, 68%);
+    padding: 20px 40px;
+    border-radius: 60px;
+    margin-left: -70px;
+    border-color: hsl(0, 36%, 70%);
+}
+#plc{
+    padding: 23px 120px;
+    border-radius: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    border-color: hsl(0, 36%, 70%);
 }
 .left{
     background-image: url(./images/bg-pattern-desktop.svg);
-    padding: 150px 150px;
-    
+    padding: 60px 180px;
+    font-size: 35px; 
 }
-#logo{
-    margin-top: -40px;
-    
+
+.chars{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 100px; 
+    margin-bottom: 50px;  
+}
+
+#dark-red{
+    color: hsl(0, 6%, 24%);
+    font-weight: 600;
 }
